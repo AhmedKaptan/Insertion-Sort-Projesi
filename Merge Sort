@@ -1,5 +1,4 @@
 # Merge Sort Projesi
-Bu dosya [patika.dev](https://www.patika.dev/)'e ait olan Ahmet sait tarafından yapılmış ''[Veri Yapıları ve Algoritmaları](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar)''  dersinin [Merge Sort](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/merge-sort) ödevini içermektedir.
 
 [16,21,11,8,12,22]-> Merge Sort
 
@@ -11,8 +10,8 @@ Bu dosya [patika.dev](https://www.patika.dev/)'e ait olan Ahmet sait tarafından
 
 
 
-|Dizi iki ye bölünerek tekrardan yazılcak||||16|21|11|8|12||||
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Dizi iki ye bölünerek tekrardan yazılcak||||16|21|11|8|12|22||||
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 |Sol ve sağ taraf tekrardan ikiye bölünür|||16|21|11|||8|12|22|||
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
